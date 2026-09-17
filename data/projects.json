@@ -1,30 +1,30 @@
 [
   {
-    "category": "Lead operations",
-    "title": "A calmer path from inquiry to kickoff",
-    "summary": "Connected forms, AI-assisted qualification, and automatic follow-up so promising leads never disappear in a spreadsheet.",
-    "tools": ["Forms", "AI", "CRM"],
-    "image": "assets/images/lead-operations.jpg"
+    "category": "Lead qualification",
+    "title": "AI Lead Qualification Engine",
+    "summary": "A Tally intake flow routes new inquiries into n8n, where OpenAI classifies the lead, assigns buying intent, and triggers the right next step in Google Sheets and Gmail.",
+    "tools": ["Tally", "n8n", "OpenAI", "Google Sheets", "Gmail"],
+    "image": ""
   },
   {
-    "category": "Content system",
-    "title": "One idea, everywhere it needs to be",
-    "summary": "A repeatable content pipeline that turns a single source into ready-to-review posts, newsletters, and a searchable knowledge base.",
-    "tools": ["Notion", "OpenAI", "Publishing"],
-    "image": "assets/images/content-system.jpg"
+    "category": "Sales ops",
+    "title": "AI Lead Routing + Scoring",
+    "summary": "Raw lead data is normalized, scored, and passed through a decision layer so the sales process focuses on the most promising opportunities instead of manual sorting.",
+    "tools": ["n8n", "Google Sheets", "OpenAI", "Zapier", "CRM"],
+    "image": ""
   },
   {
-    "category": "Client delivery",
-    "title": "From project notes to clear next steps",
-    "summary": "Meeting notes become structured tasks, owners, and client-ready updates without the end-of-day admin scramble.",
-    "tools": ["Meetings", "Tasks", "API"],
-    "image": "assets/images/client-delivery.jpg"
+    "category": "Support automation",
+    "title": "AI Support Triage Assistant",
+    "summary": "Telegram conversations are handled by an AI assistant that answers common questions, gathers missing customer details, creates tickets, and sends confirmation emails automatically.",
+    "tools": ["Telegram", "n8n", "OpenAI", "Gmail", "Google Sheets"],
+    "image": ""
   },
   {
-    "category": "Custom dashboard",
-    "title": "A better view of the work",
-    "summary": "A focused reporting layer that brings the metrics that matter into one simple, decision-ready view.",
-    "tools": ["Data", "Dashboards", "Automation"],
-    "image": "assets/images/custom-dashboard.jpg"
+    "category": "Workflow optimization",
+    "title": "Batch AI Processing + Messaging",
+    "summary": "Spreadsheet rows are looped through an AI model, transformed into usable output, and then routed into notifications and follow-ups for faster execution at scale.",
+    "tools": ["n8n", "Google Sheets", "OpenAI", "Gmail", "Slack"],
+    "image": ""
   }
 ]
