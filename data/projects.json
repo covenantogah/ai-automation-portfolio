@@ -1,0 +1,30 @@
+[
+  {
+    "category": "Lead operations",
+    "title": "A calmer path from inquiry to kickoff",
+    "summary": "Connected forms, AI-assisted qualification, and automatic follow-up so promising leads never disappear in a spreadsheet.",
+    "tools": ["Forms", "AI", "CRM"],
+    "image": "assets/images/lead-operations.jpg"
+  },
+  {
+    "category": "Content system",
+    "title": "One idea, everywhere it needs to be",
+    "summary": "A repeatable content pipeline that turns a single source into ready-to-review posts, newsletters, and a searchable knowledge base.",
+    "tools": ["Notion", "OpenAI", "Publishing"],
+    "image": "assets/images/content-system.jpg"
+  },
+  {
+    "category": "Client delivery",
+    "title": "From project notes to clear next steps",
+    "summary": "Meeting notes become structured tasks, owners, and client-ready updates without the end-of-day admin scramble.",
+    "tools": ["Meetings", "Tasks", "API"],
+    "image": "assets/images/client-delivery.jpg"
+  },
+  {
+    "category": "Custom dashboard",
+    "title": "A better view of the work",
+    "summary": "A focused reporting layer that brings the metrics that matter into one simple, decision-ready view.",
+    "tools": ["Data", "Dashboards", "Automation"],
+    "image": "assets/images/custom-dashboard.jpg"
+  }
+]
