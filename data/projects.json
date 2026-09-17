@@ -26,5 +26,12 @@
     "summary": "Spreadsheet rows are looped through an AI model, transformed into usable output, and then routed into notifications and follow-ups for faster execution at scale.",
     "tools": ["n8n", "Google Sheets", "OpenAI", "Gmail", "Slack"],
     "image": ""
+  },
+  {
+    "category": "Social engagement",
+    "title": "Instagram DM AI Auto-Reply",
+    "summary": "Incoming Instagram DMs are parsed, filtered for text, analyzed by AI, and automatically replied to with quick, conversational responses while non-text messages are logged for follow-up.",
+    "tools": ["Instagram", "n8n", "OpenAI", "Meta API", "Automation"],
+    "image": ""
   }
 ]
